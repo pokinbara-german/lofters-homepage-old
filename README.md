@@ -15,6 +15,12 @@ Permanent link to demo is: [Lofters homepage](https://pokinbara-german.github.io
          width="60">
 </a>
 
+<a href="https://jquery.com/">
+    <img src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png"
+         alt="JQuery"
+         width="60">
+</a>
+
 <a href="https://blueimp.github.io/Gallery/">
     <img src="https://ckeditor.com/cke4/sites/default/files/styles/logo/public/blueimpgallery/blueimp-gallery.jpg"
          alt="Blueimp gallery"
