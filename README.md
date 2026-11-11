@@ -16,7 +16,7 @@ Permanent link to demo is: [Lofters homepage](https://pokinbara-german.github.io
 </a>
 
 <a href="https://jquery.com/">
-    <img src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png"
+    <img src="https://icon.icepanel.io/Technology/svg/jQuery.svg"
          alt="JQuery"
          width="60">
 </a>
